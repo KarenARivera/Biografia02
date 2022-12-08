@@ -1,0 +1,56 @@
+*{
+    background-color: rgb(122, 12, 12);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.imgPerfil {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    border-width: 50%;
+}
+
+h1{
+    font-size: 380%;
+    font-style: italic;
+}
+
+.titulos {
+    font-size: 150%;
+    font-style: italic;
+    text-align: center;
+}
+
+.subtitulos {
+    font-size: 150%;
+    font-style: italic;
+}
+
+#biografia {
+    width: 96vw;
+    font-size: 120%;
+    text-align: center;
+}
+
+#fallecimiento {
+    width: 96vw;
+    font-size: 120%;
+    text-align: center;
+}
+
+.table{
+    text-align: center;
+    width: 90vw;
+}
+
+.card-text{
+    text-align: center;
+    font-size: 110%;
+}
+
